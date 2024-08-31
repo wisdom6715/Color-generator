@@ -1,0 +1,18 @@
+.colorDiv {
+  height: 20rem;
+  width: 30rem;
+  border: 0.2rem solid grey;
+}
+.parentContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+.color-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
